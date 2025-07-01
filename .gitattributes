@@ -1,1 +1,2 @@
-*.ipsw filter=lfs diff=lfs merge=lfs -text linguist-language=iPodian
+*.ipsw filter=lfs diff=lfs merge=lfs -text
+*.ipsw linguist-language=iPodDian
