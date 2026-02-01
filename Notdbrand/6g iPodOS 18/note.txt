@@ -1,0 +1,1 @@
+I you want to use these images in one of your own themes you'll have to increase the image suffix. This is because the current suffixes are the default values that won't complie nicely.
