@@ -7,4 +7,4 @@ Additionally, check out <a href="https://nanolib.net">NanoLib</a> — a growing 
 
 <br><br>
 <b>I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED BY THE FILES HOSTED HERE</b>
-# Everything is moving to nanovault.burgerbat.uk for now, as it is against ToS to archive all this... oops. No files should be lost in this transfer. Please do not use too many resources as I am hosting this.
+# Everything is moving to <a href="https://nanovault.burgerbat.uk">burgerbat.uk</a> for now, as it is against ToS to archive all this... oops. No files should be lost in this transfer. Please do not use too many resources as I am hosting this.
